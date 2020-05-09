@@ -1,2 +1,2 @@
 # jenkins-jnlp
- jnlp dockerfile
+ jenkins jnlp Dockerfile
